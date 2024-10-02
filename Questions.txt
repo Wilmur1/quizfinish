@@ -1,0 +1,11 @@
+What is 8 + 7 x 2?,12,32,30,22,4
+What continent has the fewest people?,Asia,Antarctica,Africa,Oceana,2
+What is 8 / 0.1?,80,66,160,32,1
+What is the capital city of Wales?,London,Paris,Cardiff,Moscow,3
+What is the chemical symbol for gold?,Gd,Pb,Si,Au,4
+What is 8 x 9 -3?,72,75,69,14,3
+How many continents are there?,7,6,5,8,1
+What is 10 x 0.5?,2,5,20,4,2
+Who is the President of the United States of America?,Obama,Washington,Trump,Biden,4
+What is 100 / 25?,2,3,4,5,3
+How many questions in this quiz?,11,10,9,I don't know,1
